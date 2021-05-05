@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sahilpednekar332000@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sahil-pednekar-2505931b8/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADKhqpwBb7v5If4BjCMIX7AjT5Nbxu-tIF0,1635456209953)/](https://www.linkedin.com/in/sahil-pednekar-2505931b8/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADKhqpwBb7v5If4BjCMIX7AjT5Nbxu-tIF0,1635456209953)/)
+- 📄 Know about my experiences [https://tinyurl.com/resume-sahilpednekar)/](https://tinyurl.com/resume-sahilpednekar)/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
