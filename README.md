@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">A passionate frontend developer , UI/UX Designer and </h3>
+<h3 align="center">A passionate frontend developer , UI/UX Designer and Fluter developer</h3>
 
 - 🔭 I’m currently working on **Multiple Web dev projects and React clones**
 
