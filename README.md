@@ -1,5 +1,5 @@
 <h1 align="left">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sahil</h1>
-<h3 align="left">A passionate Frontend developer , UI/UX Designer and Fluter developer</h3>
+<h3 align="left">A passionate Frontend developer , UI/UX Designer and Android developer</h3>
 
 - 🔭 I’m currently working on **Making Multile apps in Android studio and Wildlife website**
 
