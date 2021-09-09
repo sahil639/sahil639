@@ -15,8 +15,6 @@
 
 - 🔧 Visit my portfolio website [https://tinyurl.com/website-sahilpednekar)/](https://sahilp3669.netlify.app/))
 
-![me](https://media.giphy.com/media/dzXFMwFV05R0Q/giphy.gif)
-
-<img src="https://media.giphy.com/media/dzXFMwFV05R0Q/giphy.gif" width="250" height="140.5" />
+<img src="https://media.giphy.com/media/dzXFMwFV05R0Q/giphy.gif" width="250" height="140.5" /> 
 
 
