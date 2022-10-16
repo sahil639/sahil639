@@ -1,9 +1,9 @@
 <h1 align="left">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sahil</h1>
 <h3 align="left">Product & Visual designer with a passion for frontend design and WEB 3.0 ✦</h3>
 
-- 🔭 I’m currently working on **Making Multile dapps using solidity**
+- 🔭 I’m currently working on projects in the NFT space
 
-- 🌱 I’m currently learning **Solidity, smart contracts and tailwind CSS**
+- 🌱 I’m currently learning **tailwind CSS and Web3.js**
 
 - 👨‍💻 All of my UI designs are available at [dribble shots](https://dribbble.com/Sahil369) [Behance case studies](https://www.behance.net/sahilpedneb5bd)
 
